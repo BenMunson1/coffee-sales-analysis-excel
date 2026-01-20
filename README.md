@@ -31,6 +31,10 @@ I used Excel to:
 The final Excel file contains the cleaned data, pivot tables, and the interactive dashboard in one workbook.
 
 # Business Recommendations
+Based on the analysis:
+- Expand and promote the loyalty program to increase repeat purchases and customer lifetime value.
+- Prioritize inventory and marketing spend toward top-performing products and regions.
+- Create targeted campaigns to convert high-spending non-loyalty customers into loyalty members.
 
 # Skills
 - Excel data cleaning and preparation
